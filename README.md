@@ -29,5 +29,5 @@
 <br>
 
 ### Stat
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viviviviviid&hide_progress=true&langs_count=8)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viviviviviid&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
