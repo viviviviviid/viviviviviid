@@ -4,24 +4,10 @@
   
 ### 🛠 STACKS 🛠 
 <div>
+<img src="https://img.shields.io/badge/COSMOS EVM-0000cd?style=for-the-badge&logo=cosmos&logoColor=white">
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">  
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon CodeDeploy-527FFF?style=for-the-badge&logo=hackthebox&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon Route 53-8C4FFF?style=for-the-badge&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/ethers.js-F16822?style=for-the-badge&logo=Web3.js&logoColor=white">
-<img src="https://img.shields.io/badge/Hardhat-FF9900?style=for-the-badge&logo=Hardhat&logoColor=white">
-
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
-
 
 </div>
 <br>
