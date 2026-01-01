@@ -10,13 +10,7 @@
 
 <br>
 
-### 📊 STATS 📊 
 
-<table>
-<tr>
 <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viviviviviid&theme=default" /></td>
-<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viviviviviid&theme=default" /></td>
-</tr>
-</table>
 
 </div>
