@@ -9,11 +9,11 @@
 
 ### 👋 About Me
 
+- DevRel at **Avalanche Team1**, organizing and running **x402 builder meetups & workshops**
 - Building backend systems and infrastructure for a **fintech & compliance-focused blockchain**
 - Working on **Account Abstraction, wallet infrastructure, indexers, and chain operations**
 - Experienced with production blockchain systems processing up to **~400K transactions/day**
 - Built **ABCFE**, a blockchain node written from scratch in **Go**, powering a blockchain education platform
-- DevRel at **Avalanche Team1**, organizing and running **x402 builder meetups & workshops**
 - Interested in **x402, stablecoin payments, Account Abstraction, and agent-native payment infrastructure**
 
 <br>
